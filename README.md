@@ -1,5 +1,4 @@
 # SpeedReading
-01  - Speed Reading<br />
 Språk: Java.
 
 Beskrivning: Ett program där text skrivs ut på en rad i önskad hastighet. Detta program kan
