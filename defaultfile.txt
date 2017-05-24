@@ -1,0 +1,3 @@
+﻿This is the default file. It must always be here.
+You can either change the text in here, or make another .txt file and "choose" it in this program, but
+this file must always be here next to the main file or this program will crash. /Adrian - The Iris Systems.
